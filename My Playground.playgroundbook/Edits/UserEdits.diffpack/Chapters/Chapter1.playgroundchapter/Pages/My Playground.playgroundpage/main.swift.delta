@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>let name = "abdulwahab alozainah"
+var hobbie1 = "horse riding"
+var hobbie2 = "diving"
+var age = 16
+var hieght = 1.80
+print("hello my name is: \(name) my hobbie is:\(hobbie1) ")
+let friendname = "fawaz"
+var hobbie1 = "footbal"
+var hobbie2 = "horse riding"
+var hieght = 1.80
+var age = 16
+//comparing
+name == friendname
+name != friendname
+
+hobbie1 == friendhobbie2
+hobbie2 !== friendhobbie2
+
+age == friendname
+
+hieght == friendhieght
+
+</string>
+			<key>ModifiedRange</key>
+			<string>{1, 432}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/main.swift</string>
+</dict>
+</plist>
